@@ -1,3 +1,6 @@
+If you want to see my project you should open file in style with name icons.css and in add
+
+////
 :root {
     --regular: 'FA Regular';
     --light: 'FA light';
